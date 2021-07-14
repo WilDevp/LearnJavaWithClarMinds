@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClearMinds/ClearMinds.iml" filepath="$PROJECT_DIR$/ClearMinds/ClearMinds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contactos/Contactos.iml" filepath="$PROJECT_DIR$/Contactos/Contactos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LearnJavaWithClarMinds.iml" filepath="$PROJECT_DIR$/.idea/LearnJavaWithClarMinds.iml" />
+    </modules>
+  </component>
+</project>
